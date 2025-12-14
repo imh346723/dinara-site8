@@ -10,11 +10,12 @@ p {
 color: #024A68;
 }
   h1 {
-    margin-left: 200px;
+    text-align: center;
     color: #006363	;
   }
   img {
     border: 3px solid #1D7471;
+      margin: 35px;
     
   }
   header {
